@@ -14,6 +14,7 @@
 			content-sysfw-data = <&unsecure_binary>;
 			content-sysfw-inner-cert = <&unsecure_binary>;
 			content-dm-data = <&unsecure_binary>;
+			content-tee = <&unsecure_binary>;
 			combined;
 			sysfw-inner-cert;
 			dm-data;
